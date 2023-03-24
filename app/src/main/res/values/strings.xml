@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">All HD Video Downloader</string>
+    <string name="rate_msg">Are you sure want to exit this app ?</string>
+    <string name="storagepath">/storage/emulated/0/All Downloader App/Videos</string>
+
+    <string name="privacy_policy_link">https://sites.google.com/view/allviddownload</string>
+    <string name="private_folder_name">private_videos</string>
+    <string name="_25">25%</string>
+    <string name="download">Download</string>
+    <string name="download_complete">Download Completed</string>
+    <string name="download_from_private_account">Download from Private Account</string>
+    <string name="download_started">Download Started</string>
+    <string name="download_stories">Download from Stories</string>
+    <string name="share_image_via">Share File via...</string>
+    <string name="share_txt">Hey view/download this image</string>
+    <string name="sharechat_app_name">ShareChat</string>
+    <string name="wapp">WhatsApp</string>
+    <string name="wapp_permission">Click on this button and Allow permission to access your status</string>
+    <string name="wbapp">WA Business</string>
+    <string name="whatsapp">Whatsapp</string>
+    <string name="whatsapp_not_installed">Whtasapp not installed.</string>
+    <string name="yes">Yes</string>
+    <string name="no_app_installed">No application found to open this file.</string>
+    <string name="app_not_available">App Not Available.</string>
+    <string name="ok">OK</string>
+    <string name="paste_link">Paste Link</string>
+    <string name="view_stories">View Stories and Download from Private Account</string>
+    <string name="login">Login</string>
+    <string name="how_to_download">How to Download</string>
+    <string name="second_how_too">2. Share with All in One Status Saver</string>
+    <string name="or_download_using_copied_link">or Download using copied link</string>
+    <string name="fourth_how_too">2. Open All in One Status Saver</string>
+    <string name="insta_app_name">Instagram</string>
+    <string name="error_internet">Please Check Your Internet …</string>
+    <string name="terms" translatable="false">have been recently updated To continue using our app, please review and agree to our updated terms.</string>
+
+    <string name="open_chingari">1. Open Chingari</string>
+    <string name="open_josh">1. Open Josh</string>
+    <string name="open_mitron">1. Open Mitron</string>
+    <string name="open_sharechat">1. Open ShareChat</string>
+    <string name="open_twitter">1. Open Twitter</string>
+    <string name="opn_fb">1. Open Facebook</string>
+    <string name="opn_insta">1. Open Instagram</string>
+
+    <string name="enter_url">Enter Url</string>
+    <string name="enter_valid_url">Enter Valid Url</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="status_not_available">Status not available.</string>
+    <string name="no">No</string>
+    <string name="confirm">Confirm Delete....</string>
+    <string name="twitter_app_name">Twitter</string>
+    <string name="save_error">Couldn\'t save some files</string>
+    <string name="save_success">All Status Are Saved Successfully</string>
+    <string name="saved_success">Status saved successfully</string>
+
+    <string name="stories">Stories</string>
+    <string name="no_net_conn">No Internet Connection</string>
+    <string name="facebook_app_name">Facebook</string>
+    <string name="saved_to">Saved to:</string>
+    <string name="allow_storage_access">Allow storage access</string>
+    <string name="select_all">Select All</string>
+    <string name="save">Save</string>
+    <string name="del_status">Are you sure, You Want To Delete This Status?</string>
+    <string name="delete">Delete</string>
+    <string name="delete_alert">Are you sure , You want to delete selected files?</string>
+    <string name="delete_error">Couldn\'t delete some files</string>
+    <string name="delete_success">Deleted successfully</string>
+    <string name="do_u_want_to_dlt">Do you want to delete?</string>
+    <string name="do_u_want_to_download_media_from_pvt">Don\'t Want to Download Media from Private Account?</string>
+
+    <string name="no_media_on_tweet">No Media on Tweet or Invalid Link</string>
+    <string name="chingari_app_name">Chingari</string>
+    <string name="cop_link_from_chingari">1. Copy Video Link from Chingari</string>
+    <string name="cop_link_from_josh">1. Copy Video Link from Josh</string>
+    <string name="cop_link_from_mitron">1. Copy Video Link from Mitron</string>
+    <string name="josh_app_name">Josh</string>
+    <string name="mitron_app_name">Mitron</string>
+    <string name="cop_link_from_sharechat">1. Copy Video Link from ShareChat</string>
+    <string name="no_result_found">No Result Found</string>
+    <string name="file_deleted">File Deleted.</string>
+
+
+</resources>

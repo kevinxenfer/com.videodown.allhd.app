@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/adFrameLarge"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center_horizontal"
+    android:orientation="vertical">
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/adSpaceBackground"
+        app:cardBackgroundColor="@color/colorBGNativeStart"
+        app:cardCornerRadius="0dp"
+        app:cardElevation="0dp"
+        android:layout_width="300dp"
+        android:layout_height="140dp">
+
+        <TextView
+            android:id="@+id/adSpaceLarge"
+            android:layout_width="300dp"
+            android:layout_height="140dp"
+            android:layout_margin="4dp"
+            android:gravity="center"
+            android:text="Space For Ads"
+            android:textColor="@color/colorBlack" />
+    </androidx.cardview.widget.CardView>
+</LinearLayout>

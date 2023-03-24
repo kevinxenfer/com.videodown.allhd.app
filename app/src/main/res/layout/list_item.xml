@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:gesture-image="http://schemas.polites.com/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:padding="4dp">
+
+    <ImageView
+        android:id="@+id/file_picker_image"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_margin="8dp"
+        android:padding="4dp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/baseline_folder_24" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/file_picker_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="left|center_vertical|center_horizontal|center"
+            android:layout_marginStart="10dp"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:singleLine="true"
+            android:text="Filename"
+            android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+            android:textColor="@color/tooltext"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/path"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="left|center_vertical|center_horizontal|center"
+            android:layout_marginStart="10dp"
+            android:layout_weight="1"
+            android:paddingTop="3dp"
+            android:singleLine="true"
+            android:text="Filepath"
+            android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+            android:textColor="@color/tooltext"
+            android:visibility="gone" />
+    </LinearLayout>
+</LinearLayout>

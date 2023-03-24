@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_500">#242430</color>
+    <color name="teal_200">#242430</color>
+    <color name="teal_700">#242430</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="clrapp">#E70199</color>
+    <color name="clrorange">#CD55E0</color>
+    <color name="transparent">#00000000</color>
+    <color name="tab_txt_press">#ffffff</color>
+    <color name="round_btn_bg">#80000000</color>
+    <color name="toolclr">#242430</color>
+
+    <color name="colorPrimary">#242430</color>
+    <color name="colorAccent">#242430</color>
+    <color name="colorPrimaryDark">#242430</color>
+
+    <color name="tooltext">#FF000000</color>
+
+    <color name="dark">#242430</color>
+    <color name="txt">#5D6675</color>
+
+    <color name="appbg">#11141e</color>
+
+    <color name="sstatus">#2A6470</color>
+    <color name="colorMain">#04AA1C</color>
+    <color name="status">#04AA1C</color>
+    <color name="clrgreen">#06AC1E</color>
+    <color name="colorLight">#4d00918C</color>
+
+    <color name="star_gray">#7C7C7C</color>
+    <color name="connect_vpn">#4BB710</color>
+    <color name="blue">#1974A3</color>
+</resources>

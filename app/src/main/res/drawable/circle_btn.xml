@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:gesture-image="http://schemas.polites.com/android" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:shape="rectangle">
+    <corners android:radius="60dp"/>
+    <stroke android:width="0dp" android:color="@color/round_btn_bg"/>
+    <solid android:color="@color/round_btn_bg"/>
+</shape>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:gesture-image="http://schemas.polites.com/android">
+    <gradient
+        android:angle="90"
+        android:centerColor="@color/clrapp"
+        android:endColor="@color/clrapp"
+        android:startColor="@color/clrapp" />
+    <corners android:radius="30dp" />
+</shape>
